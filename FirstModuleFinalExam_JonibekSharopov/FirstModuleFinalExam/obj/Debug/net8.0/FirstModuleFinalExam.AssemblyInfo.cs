@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstModuleFinalExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2510d9803694f9cf206cdd38a3cab454f2e11193")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31989986778338af875e9835af506914aa5f369c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstModuleFinalExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstModuleFinalExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
